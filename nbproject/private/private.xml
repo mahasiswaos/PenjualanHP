@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Hp/tambah.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Hp/tampil.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Penjualan/edit.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Penjualan/tambah.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Penjualan/tampil.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Transaksi/tambah.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/models/Pembeli.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/controllers/PembeliController1.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/controllers/TransaksiController1.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Transaksi/tampil.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/config/database.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/routes.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/controllers/HpController1.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/Hp/edit.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/models/Transaksi.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/views/layout/bootstrapadmin/header.blade.php</file>
+            <file>file:/D:/Zend/Apache2/htdocs/laravel/app/models/Hp.php</file>
+        </group>
+    </open-files>
+</project-private>
